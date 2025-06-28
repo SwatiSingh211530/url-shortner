@@ -66,9 +66,13 @@ url-shortner/
 
 ### 🔹 Homepage View
 ![Homepage](screen_shot/homepage.png)
+<img src="https://github.com/SwatiSingh211530/url-shortner/raw/main/screen_short/homepage.png" alt="Homepage" width="600"/>
+
 
 ### 🔹 Login Page
 ![Login Page](screen_shot/loginpage.png)
+<img src="https://github.com/SwatiSingh211530/url-shortner/raw/main/screen_short/loginpage.png" alt="Login Page" width="600"/>
+
 
 ### 🔹 Signup Page
 ![Signup Page](screen_shot/signup.png)
